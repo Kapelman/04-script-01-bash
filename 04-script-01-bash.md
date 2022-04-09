@@ -120,7 +120,7 @@ done
 
 ### Ваш скрипт:
 ```bash
-#!/bin/sh
+#!user/bin/bash
 #
 # An example hook script to check the commit log message.
 # Called by "git commit" with one argument, the name of the file
